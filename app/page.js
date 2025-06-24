@@ -39,7 +39,7 @@ export default function Home() {
           <p className="font-normal text-gray-500 text-md text-center">
             Code is my canvas, the browser is my gallery. Design with intent, build with precision, deliver with empathy.
           </p>
-          <button className="border w-36 h-12 rounded-md bg-[#5D5FEF] text-white cursor-pointer">
+          <button className="border w-36 h-12 rounded-md bg-[#5D5FEF] font-semibold text-white cursor-pointer">
             Let's Connect
           </button>
         </div>
